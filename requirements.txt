@@ -1,0 +1,10 @@
+flask
+pandas
+
+scikit-learn
+pickle-mixin
+
+pandas
+Flask==2.1.2
+scikit-learn==1.0.2
+numpy==1.21.4
