@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+scikit-learn==1.3.2  # (latest stable version as of early 2025)
+joblib
+gunicorn
